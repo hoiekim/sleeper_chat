@@ -53,3 +53,15 @@ Download and install expo client(`Expo Go`) in your mobile machine. You can find
 ## 6. Scan QR code in the terminal using your mobile machine
 
 Use QR code reader app on Android or default camera app on IOS. Since you have `Expo Go` installed already, the QR code reader will let you open the app once you scan it.
+
+
+## 7. Enjoy!
+
+This is what you're supposed to see :)
+
+<div>
+  <img src="https://user-images.githubusercontent.com/61715204/147620511-94828769-f66b-43d7-8a81-511e12fa7640.png" width="200px" style="display: inline-block" />
+  <img src="https://user-images.githubusercontent.com/61715204/147620521-27118c7c-e8f0-4937-9dc7-2926b6ac2b73.png" width="200px" style="display: inline-block" />
+  <img src="https://user-images.githubusercontent.com/61715204/147620526-76d231ec-754b-4c9c-a141-cc6d2b0670f6.png" width="200px" style="display: inline-block" />
+</div>
+
